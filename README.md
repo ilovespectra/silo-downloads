@@ -2,7 +2,7 @@
 
 This public repository hosts downloadable Silo preview installers. The Silo application source is in [ilovespectra/Silo](https://github.com/ilovespectra/Silo).
 
-The [Try Silo download page](https://trysilo-seven.vercel.app/#download) reads **published, public releases from this repository**. A draft release, or files attached only to a release in the Silo source repository, will not appear on that page.
+The [Try Silo download page](https://trysilo.kolektivkrog.si/#download) reads **published, public releases from this repository**. A draft release, or files attached only to a release in the Silo source repository, will not appear on that page.
 
 ## Installer filenames
 
